@@ -22,11 +22,11 @@
 
     <section id="contenedorMenu">
         <ul class="menu dropdown fontTitle align-spaced"data-dropdown-menu>
-            <li><a href="#">Inicio</a></li>
-            <li><a href="#">Juegos en androd</a></li>
-            <li><a href="#">Retos</a></li>
-            <li><a href="#">crea y publica</a></li>
-            <li><a href="#">Registrarme/Login</a></li>
+            <li><a class="boton" href="home.php">Inicio</a></li>
+            <li><a href="juegos en android.php">Juegos en android</a></li>
+            <li><a href="retos.php">Retos</a></li>
+            <li><a href="crea y publica.php">Crea y publica</a></li>
+            <li><a href="login.php">Login</a></li>
         </ul>
     </section>
 
