@@ -7,7 +7,6 @@
     <title>Jegos en Canvas</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
-
    </head>
 
   
@@ -16,7 +15,7 @@
 
   <section id="contenedorTitulo">
       <div class="callout text-center">
-        <img src="../assets/img/logos/logo.png">
+        <img src="assets/img/logos/logo.png">
       </div>
     </section>
 
@@ -39,20 +38,20 @@
               <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
               <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
               <li class="is-active orbit-slide">
-                <img class="orbit-image" src="../assets/img/sliders/juego de la serpiente-header.PNG" alt="imagen slider">
-                <figcaption class="orbit-caption">Juegos canvas</figcaption>
+                <img class="orbit-image" src="assets/img/sliders/juego de la serpiente-header.PNG" alt="imagen slider">
+                <figcaption class="orbit-caption sld">Juegos canvas</figcaption>
               </li>
               <li class="orbit-slide">
-                <img class="orbit-image" src="../assets/img/sliders/juego ramdom-header.PNG" alt="imagen slider">
-                <figcaption class="orbit-caption">Juegos canvas</figcaption>
+                <img class="orbit-image" src="assets/img/sliders/juego ramdom-header.PNG" alt="imagen slider">
+                <figcaption class="orbit-caption sld">Juegos canvas</figcaption>
               </li>
               <li class="orbit-slide">
-                <img class="orbit-image" src="../assets/img/sliders/juego rardom2.png" alt="imagen slider">
-                <figcaption class="orbit-caption">Juegos canvas</figcaption>
+                <img class="orbit-image" src="assets/img/sliders/juego rardom2.png" alt="imagen slider">
+                <figcaption class="orbit-caption sld">Juegos canvas</figcaption>
               </li>
               <li class="orbit-slide">
-                <img class="orbit-image" src="../assets/img/sliders/juego pistolas.png" alt="imagen slider">
-                <figcaption class="orbit-caption">Apps android</figcaption>
+                <img class="orbit-image" src="assets/img/sliders/juego pistolas.png" alt="imagen slider">
+                <figcaption class="orbit-caption sld">Apps android</figcaption>
               </li>
               </ul>
               <nav class="orbit-bullets">
@@ -76,7 +75,7 @@
     <div class="row">
        <div class="column small-12 columns">
           <a href="juegos/serpiente/serpiente.php">
-            <img class="box" src="../assets\img\img pantalla inicio\la serpiente.png">
+            <img class="box" src="assets\img\img pantalla inicio\la serpiente.png">
           </a>
           
         </div>
@@ -84,13 +83,13 @@
 
     <div class="row">
        <div class="column small-12 columns">
-          <img class="box" src="../assets\img\img pantalla inicio\bomber man.png">
+          <img class="box" src="assets\img\img pantalla inicio\bomber man.png">
         </div>
     </div>  
 
     <div class="row">
        <div class="column small-12 columns">
-          <img class="box" src="../assets\img\img pantalla inicio\best city.png">
+          <img class="box" src="assets\img\img pantalla inicio\best city.png">
         </div>
     </div>   
     
