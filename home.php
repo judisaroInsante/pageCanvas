@@ -39,19 +39,19 @@
               <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
               <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
               <li class="is-active orbit-slide">
-                <img class="orbit-image" src="../assets/img/header/juego de la serpiente-header.PNG" alt="imagen slider">
+                <img class="orbit-image" src="../assets/img/sliders/juego de la serpiente-header.PNG" alt="imagen slider">
                 <figcaption class="orbit-caption">Juegos canvas</figcaption>
               </li>
               <li class="orbit-slide">
-                <img class="orbit-image" src="../assets/img/header/juego ramdom-header.PNG" alt="imagen slider">
+                <img class="orbit-image" src="../assets/img/sliders/juego ramdom-header.PNG" alt="imagen slider">
                 <figcaption class="orbit-caption">Juegos canvas</figcaption>
               </li>
               <li class="orbit-slide">
-                <img class="orbit-image" src="../assets/img/header/juego rardom2.png" alt="imagen slider">
+                <img class="orbit-image" src="../assets/img/sliders/juego rardom2.png" alt="imagen slider">
                 <figcaption class="orbit-caption">Juegos canvas</figcaption>
               </li>
               <li class="orbit-slide">
-                <img class="orbit-image" src="../assets/img/header/juego pistolas.png" alt="imagen slider">
+                <img class="orbit-image" src="../assets/img/sliders/juego pistolas.png" alt="imagen slider">
                 <figcaption class="orbit-caption">Apps android</figcaption>
               </li>
               </ul>
@@ -75,8 +75,8 @@
 
     <div class="row">
        <div class="column small-12 columns">
-          <a href="juegos canvas/serpiente/serpiente.php">
-            <img class="box" src="../assets\img\img juegos\la serpiente.png">
+          <a href="juegos/serpiente/serpiente.php">
+            <img class="box" src="../assets\img\img pantalla inicio\la serpiente.png">
           </a>
           
         </div>
@@ -84,13 +84,13 @@
 
     <div class="row">
        <div class="column small-12 columns">
-          <img class="box" src="../assets\img\img juegos\bomber man.png">
+          <img class="box" src="../assets\img\img pantalla inicio\bomber man.png">
         </div>
     </div>  
 
     <div class="row">
        <div class="column small-12 columns">
-          <img class="box" src="../assets\img\img juegos\best city.png">
+          <img class="box" src="../assets\img\img pantalla inicio\best city.png">
         </div>
     </div>   
     
